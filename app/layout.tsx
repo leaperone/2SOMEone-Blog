@@ -3,16 +3,16 @@ import type { ReactNode } from 'react';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'MultiPost Blog',
+  title: '2SOMEone Blog',
   keywords: ['blog', 'nextjs', 'react', 'typescript', 'multilingual'],
-  authors: [{ name: 'Leaperone' }],
-  creator: 'Leaperone',
+  authors: [{ name: '2SOMEone' }],
+  creator: '2SOMEone',
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://blog.multipost.app',
-    title: 'MultiPost Blog',
-    siteName: 'MultiPost Blog',
+    url: 'https://blog.2someone.com',
+    title: '2SOMEone Blog',
+    siteName: '2SOMEone Blog',
   },
   robots: {
     index: true,

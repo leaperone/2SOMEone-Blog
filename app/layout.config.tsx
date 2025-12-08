@@ -14,7 +14,7 @@ export const baseOptions = (lang: string): BaseLayoutProps => ({
     title: (
       <>
         <Image src="/favicon.ico" alt="Logo" width={24} height={24} />
-        MultiPost Blog
+        2SOMEone Blog
       </>
     ),
     enabled: true,
