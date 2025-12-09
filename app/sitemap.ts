@@ -3,7 +3,7 @@ import { source } from '@/lib/source'
 import { i18n } from '@/lib/i18n'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = 'https://blog.multipost.app'
+  const baseUrl = 'https://blog.2some.one'
   const currentDate = new Date()
   
   const sitemapEntries: MetadataRoute.Sitemap = []
